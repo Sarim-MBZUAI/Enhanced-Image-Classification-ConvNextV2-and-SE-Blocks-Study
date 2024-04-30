@@ -1,4 +1,4 @@
-<h1>Image Classification Project</h1>
+<h1>Enhancing Image Classification with ConvNextV2 and Squeeze-and-Excitation Blocks: A Comparative Study on Mixed Datasets</h1>
 
 <h2>Overview</h2>
 <p>This project focuses on the foundational task of image classification within computer vision, aiming to categorize pixels in images into one or more classes. We utilize Convolutional Neural Networks (CNNs), particularly the advanced ConvNextV2 architecture, to classify images from three datasets: CUB birds, FGVC aircraft, and FoodX.</p>
