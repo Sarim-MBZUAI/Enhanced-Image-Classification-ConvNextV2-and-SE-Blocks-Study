@@ -12,6 +12,12 @@
 
 <h2>Architecture</h2>
 <p>The architecture is based on the ConvNextV2 large variant, incorporating custom modifications for enhanced feature recalibration and attention to relevant features.</p>
+<p align="center">
+  <img src="https://github.com/Sarim-MBZUAI/Enhanced-Image-Classification-ConvNextV2-and-SE-Blocks-Study/blob/main/ConvNextL%2BAtt12-1.png" alt="our Architecture" width="75%"/>
+  <br>
+  <strong>Figure 1:</strong> Our Architecture
+</p>
+
 
 <h3>Modifications</h3>
 <ul>
