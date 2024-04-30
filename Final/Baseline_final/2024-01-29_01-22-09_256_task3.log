@@ -1,0 +1,23 @@
+2024-01-29 01:22:12,982 - INFO - Loading pretrained weights from Hugging Face hub (timm/convnextv2_large.fcmae_ft_in22k_in1k)
+2024-01-29 01:22:14,392 - INFO - [timm/convnextv2_large.fcmae_ft_in22k_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+2024-01-29 01:24:42,087 - INFO - Initial Best Val Accuracy: 0.4752376188094047%
+2024-01-29 03:06:08,989 - INFO - Epoch 1/20, Training Accuracy: 57.44418653724414%, Validation Accuracy: 75.90461897615475%
+2024-01-29 04:48:00,395 - INFO - Epoch 2/20, Training Accuracy: 74.9162270521207%, Validation Accuracy: 77.930631982658%
+2024-01-29 06:29:33,724 - INFO - Epoch 3/20, Training Accuracy: 83.91812618695927%, Validation Accuracy: 78.00566950141737%
+2024-01-29 08:11:05,918 - INFO - Epoch 4/20, Training Accuracy: 91.17957374973624%, Validation Accuracy: 77.72219443054861%
+2024-01-29 09:52:32,709 - INFO - Epoch 5/20, Training Accuracy: 95.8033340367166%, Validation Accuracy: 77.00516925129232%
+2024-01-29 11:33:58,476 - INFO - Epoch 6/20, Training Accuracy: 98.08482802278962%, Validation Accuracy: 76.84675671168918%
+2024-01-29 13:15:23,298 - INFO - Epoch 7/20, Training Accuracy: 99.02595484279384%, Validation Accuracy: 76.68000667000167%
+2024-01-29 14:56:49,376 - INFO - Epoch 8/20, Training Accuracy: 99.33488077653513%, Validation Accuracy: 76.34650658662665%
+2024-01-29 16:38:18,183 - INFO - Epoch 9/20, Training Accuracy: 99.50284870225786%, Validation Accuracy: 76.69668167417042%
+2024-01-29 18:19:46,764 - INFO - Epoch 10/20, Training Accuracy: 99.53154673981852%, Validation Accuracy: 76.47156911789227%
+2024-01-29 20:01:14,922 - INFO - Epoch 11/20, Training Accuracy: 99.56784131673349%, Validation Accuracy: 76.73003168250791%
+2024-01-29 21:42:41,363 - INFO - Epoch 12/20, Training Accuracy: 99.52057396075121%, Validation Accuracy: 76.154744038686%
+2024-01-29 23:24:06,299 - INFO - Epoch 13/20, Training Accuracy: 99.5433635788141%, Validation Accuracy: 76.36318159079539%
+2024-01-30 01:05:31,130 - INFO - Epoch 14/20, Training Accuracy: 99.58303439544207%, Validation Accuracy: 76.12139403034851%
+2024-01-30 02:46:56,999 - INFO - Epoch 15/20, Training Accuracy: 99.58387845537032%, Validation Accuracy: 75.70451892612974%
+2024-01-30 04:28:21,507 - INFO - Epoch 16/20, Training Accuracy: 99.92656678624182%, Validation Accuracy: 77.6554944138736%
+2024-01-30 06:09:44,460 - INFO - Epoch 17/20, Training Accuracy: 99.99831188014349%, Validation Accuracy: 77.56378189094548%
+2024-01-30 07:51:08,762 - INFO - Epoch 18/20, Training Accuracy: 99.99915594007174%, Validation Accuracy: 77.55544438886109%
+2024-01-30 09:32:32,696 - INFO - Epoch 19/20, Training Accuracy: 99.99915594007174%, Validation Accuracy: 77.54710688677672%
+2024-01-30 11:13:57,866 - INFO - Epoch 20/20, Training Accuracy: 100.0%, Validation Accuracy: 77.60546940136734%
